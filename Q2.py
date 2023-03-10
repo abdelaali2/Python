@@ -1,4 +1,4 @@
-# Write a Python program that prompts the user to enter two 
+# Q2: Write a Python program that prompts the user to enter two 
 # numbers and prints out their sum, difference, product, and 
 # quotient.
 # 
