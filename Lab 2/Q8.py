@@ -1,4 +1,4 @@
-# Write a Python program that reads a file named example.txt and
+# Q8: Write a Python program that reads a file named example.txt and
 # writes its contents to a new file named copy. txt.
 
 destFile = open("Lab 2\Q8_Copy.txt", "w")
